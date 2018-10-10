@@ -1,5 +1,5 @@
 baseurl             = "https://aditya-dev.xyz"
-builddrafts         = false
+builddrafts         = true
 canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
