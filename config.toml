@@ -1,0 +1,24 @@
+baseurl             = "https://aditya-dev.xyz"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+theme               = "hugo-theme-nix"
+
+[params]
+  Name = "Aditya"
+  HeaderUsername = "g33kyaditya"
+  HeaderHostname = "aditya-dev.xyz"
+  About = "lol"
+  ProfilePicture = "img/aditya.jpg"
+  GithubID = "g33kyaditya"
+  LinkedInID = "aditya-dev-sharma-7b65a010b"
+  CvURL = "https://drive.google.com/open?id=0B2UcOgLtxPKeRGZBX2xnMkp0NFE"
+  Email = "g33kyaditya@gmail.com"
+
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
